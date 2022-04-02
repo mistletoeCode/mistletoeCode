@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mistletoeCode 
-- 👀 I’m interested in full stack developer
+- 👀 I’m interested in working as full stack developer
 - 🌱 I’m currently learning python/css/javascript
 - 💞️ I’m looking to collaborate on solution for betterment
 - 📫 How to reach me:
